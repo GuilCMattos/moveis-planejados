@@ -74,5 +74,10 @@ footer .line {
  #hero {
    width: 392px;
  }
+ #balls {
+   position: absolute;
+   bottom: 0px;
+  right: 0px;
+ }
 
 }
