@@ -59,7 +59,7 @@ footer a + a {
 footer .line {
   width: 589px;
   height: 0px;
-  margin: 0 auto 8px ;
+  margin: 0 auto 15px ;
 
   border: 1px solid #ECEFF2;
 }
@@ -75,9 +75,9 @@ footer .line {
    width: 392px;
  }
  #balls {
-   position: absolute;
-   bottom: 0px;
-  right: 0px;
+   position: relative;
+   bottom: -10px;
+    right: -200px;
  }
 
 }
